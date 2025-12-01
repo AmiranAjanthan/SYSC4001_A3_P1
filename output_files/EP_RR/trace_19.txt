@@ -1,0 +1,53 @@
++------------------------------------------------+
+|Time of Transition |PID | Old State | New State |
++------------------------------------------------+
+|                 0 |  3 |       NEW |     READY |
+|                 0 |  3 |     READY |   RUNNING |
+|                 2 |  3 |   RUNNING |   WAITING |
+|                 3 |  7 |       NEW |     READY |
+|                 3 |  7 |     READY |   RUNNING |
+|                 4 |  3 |   WAITING |     READY |
+|                 4 |  7 |   RUNNING |     READY |
+|                 4 |  3 |     READY |   RUNNING |
+|                 6 |  3 |   RUNNING |   WAITING |
+|                 6 |  7 |     READY |   RUNNING |
+|                 8 |  3 |   WAITING |     READY |
+|                 8 |  7 |   RUNNING |     READY |
+|                 8 |  3 |     READY |   RUNNING |
+|                10 |  3 |   RUNNING |   WAITING |
+|                10 |  7 |     READY |   RUNNING |
+|                12 |  3 |   WAITING |     READY |
+|                12 |  7 |   RUNNING |     READY |
+|                12 |  3 |     READY |   RUNNING |
+|                14 |  3 |   RUNNING |   WAITING |
+|                14 |  7 |     READY |   RUNNING |
+|                16 |  3 |   WAITING |     READY |
+|                16 |  7 |   RUNNING |     READY |
+|                16 |  3 |     READY |   RUNNING |
+|                18 |  3 |   RUNNING |   WAITING |
+|                18 |  7 |     READY |   RUNNING |
+|                20 |  3 |   WAITING |     READY |
+|                20 |  7 |   RUNNING |     READY |
+|                20 |  3 |     READY |   RUNNING |
+|                22 |  3 |   RUNNING |   WAITING |
+|                22 |  7 |     READY |   RUNNING |
+|                24 |  3 |   WAITING |     READY |
+|                24 |  7 |   RUNNING |     READY |
+|                24 |  3 |     READY |   RUNNING |
+|                26 |  3 |   RUNNING |   WAITING |
+|                26 |  7 |     READY |   RUNNING |
+|                28 |  3 |   WAITING |     READY |
+|                28 |  7 |   RUNNING |     READY |
+|                28 |  3 |     READY |   RUNNING |
+|                30 |  3 |   RUNNING |   WAITING |
+|                30 |  7 |     READY |   RUNNING |
+|                32 |  3 |   WAITING |     READY |
+|                32 |  7 |   RUNNING |     READY |
+|                32 |  3 |     READY |   RUNNING |
+|                34 |  3 |   RUNNING |   WAITING |
+|                34 |  7 |     READY |   RUNNING |
+|                35 |  7 |   RUNNING |TERMINATED |
+|                36 |  3 |   WAITING |     READY |
+|                36 |  3 |     READY |   RUNNING |
+|                38 |  3 |   RUNNING |TERMINATED |
++------------------------------------------------+

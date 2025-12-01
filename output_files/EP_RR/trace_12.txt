@@ -1,0 +1,41 @@
++------------------------------------------------+
+|Time of Transition |PID | Old State | New State |
++------------------------------------------------+
+|                 0 | 10 |       NEW |     READY |
+|                 0 | 10 |     READY |   RUNNING |
+|                 3 |  2 |       NEW |     READY |
+|                 3 | 10 |   RUNNING |     READY |
+|                 3 |  2 |     READY |   RUNNING |
+|                 5 |  8 |       NEW |     READY |
+|                 7 | 12 |       NEW |     READY |
+|                 9 |  2 |   RUNNING |   WAITING |
+|                 9 |  8 |     READY |   RUNNING |
+|                12 |  2 |   WAITING |     READY |
+|                12 |  8 |   RUNNING |     READY |
+|                12 |  2 |     READY |   RUNNING |
+|                18 |  2 |   RUNNING |TERMINATED |
+|                18 |  8 |     READY |   RUNNING |
+|                25 |  8 |   RUNNING |TERMINATED |
+|                25 | 10 |     READY |   RUNNING |
+|                29 | 10 |   RUNNING |   WAITING |
+|                29 | 12 |     READY |   RUNNING |
+|                31 | 10 |   WAITING |     READY |
+|                31 | 12 |   RUNNING |     READY |
+|                31 | 10 |     READY |   RUNNING |
+|                35 | 10 |   RUNNING |   WAITING |
+|                35 | 12 |     READY |   RUNNING |
+|                37 | 10 |   WAITING |     READY |
+|                37 | 12 |   RUNNING |     READY |
+|                37 | 10 |     READY |   RUNNING |
+|                41 | 10 |   RUNNING |   WAITING |
+|                41 | 12 |     READY |   RUNNING |
+|                43 | 10 |   WAITING |     READY |
+|                43 | 12 |   RUNNING |     READY |
+|                43 | 10 |     READY |   RUNNING |
+|                44 | 10 |   RUNNING |TERMINATED |
+|                44 | 12 |     READY |   RUNNING |
+|                51 | 12 |   RUNNING |   WAITING |
+|                53 | 12 |   WAITING |     READY |
+|                53 | 12 |     READY |   RUNNING |
+|                54 | 12 |   RUNNING |TERMINATED |
++------------------------------------------------+
